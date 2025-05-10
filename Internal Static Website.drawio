@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.1">
   <diagram name="第 1 页" id="dTVFixLPCWqq3Uhtt8Iw">
-    <mxGraphModel dx="679" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="RwlgTqlIwdwXNtscQH5a-2" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 164, 166);&quot;&gt;AWS Singapore&lt;/font&gt;&lt;/b&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#01A88D;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="552" y="120" width="508" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="RwlgTqlIwdwXNtscQH5a-26" value="&lt;b&gt;&lt;font style=&quot;color: rgb(122, 161, 22);&quot;&gt;VPC&lt;/font&gt;&lt;/b&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;dashed=0;sketch=1;curveFitting=1;jiggle=2;" parent="RwlgTqlIwdwXNtscQH5a-2" vertex="1">
+        <mxCell id="RwlgTqlIwdwXNtscQH5a-26" value="&lt;b&gt;&lt;font style=&quot;color: rgb(214, 182, 86);&quot;&gt;VPC&lt;/font&gt;&lt;/b&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#D6B656;fillColor=#FFF2CC;verticalAlign=top;align=left;spacingLeft=30;dashed=0;sketch=1;curveFitting=1;jiggle=2;" parent="RwlgTqlIwdwXNtscQH5a-2" vertex="1">
           <mxGeometry x="10" y="210" width="490" height="370" as="geometry" />
         </mxCell>
         <mxCell id="RwlgTqlIwdwXNtscQH5a-38" value="&lt;font style=&quot;color: rgb(140, 79, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;ALB&lt;/b&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.application_load_balancer;" parent="RwlgTqlIwdwXNtscQH5a-26" vertex="1">
